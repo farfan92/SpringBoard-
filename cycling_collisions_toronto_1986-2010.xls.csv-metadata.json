@@ -1,0 +1,228 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "Imported at Thu Jan 26 21:51:57 PST 2012 from Bicycle-Data-Re-refined-1986-2010-actual-with-key-xls (1) - improved - with colours - with years2.xls.",
+  "exportable": true,
+  "dc:title": "Bicycle-Data-Re-refined-1986-2010-actual-with-key-xls (1) - improved - with colours - with years2.xls",
+  "dc:modified": "2012-01-27T05:55:10Z",
+  "dc:identifier": "12V_y-B1Vbcc91I1l9e8kGWqfzB6xVL2yrDvAXTI",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "double",
+      "name": "col0",
+      "validateData": false,
+      "title": "ID"
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "INJURY"
+    },
+    {
+      "datatype": "string",
+      "name": "col2",
+      "validateData": false,
+      "title": "INJURYCODE"
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "INJURY2"
+    },
+    {
+      "datatype": "string",
+      "name": "col4",
+      "validateData": false,
+      "title": "SAFETY EQUIP."
+    },
+    {
+      "datatype": "string",
+      "name": "col5",
+      "validateData": false,
+      "title": "SAFETY EQUIP.2"
+    },
+    {
+      "datatype": "string",
+      "name": "col6",
+      "validateData": false,
+      "title": "ROAD CLASS"
+    },
+    {
+      "datatype": "string",
+      "name": "col7",
+      "validateData": false,
+      "title": "ROAD CLASS2"
+    },
+    {
+      "datatype": "string",
+      "name": "col8",
+      "validateData": false,
+      "title": "CYCLIST CRASH TYPE"
+    },
+    {
+      "datatype": "string",
+      "name": "col9",
+      "validateData": false,
+      "title": "CYCLIST CRASH TYPE2"
+    },
+    {
+      "datatype": "double",
+      "name": "col10",
+      "validateData": false,
+      "title": "AGE OF CYCLIST"
+    },
+    {
+      "datatype": "string",
+      "name": "col11",
+      "validateData": false,
+      "title": "AGEUnrecordedOFUnrecordedCYCLIST2"
+    },
+    {
+      "datatype": "string",
+      "name": "col12",
+      "validateData": false,
+      "title": "STNAME1"
+    },
+    {
+      "datatype": "string",
+      "name": "col13",
+      "validateData": false,
+      "title": "STNAME12"
+    },
+    {
+      "datatype": "string",
+      "name": "col14",
+      "validateData": false,
+      "title": "STREET 1 TYPE"
+    },
+    {
+      "datatype": "string",
+      "name": "col15",
+      "validateData": false,
+      "title": "STREET 1 TYPE2"
+    },
+    {
+      "datatype": "string",
+      "name": "col16",
+      "validateData": false,
+      "title": "STNAME 2"
+    },
+    {
+      "datatype": "string",
+      "name": "col17",
+      "validateData": false,
+      "title": "STNAME 22"
+    },
+    {
+      "datatype": "string",
+      "name": "col18",
+      "validateData": false,
+      "title": "STREET 2 TYPE"
+    },
+    {
+      "datatype": "string",
+      "name": "col19",
+      "validateData": false,
+      "title": "STREET 2 TYPE2"
+    },
+    {
+      "datatype": "double",
+      "name": "col20",
+      "validateData": false,
+      "title": "LONG",
+      "latitudeLongitudeColumns": {
+        "latitudeColumn": "col21",
+        "longitudeColumn": "col20"
+      }
+    },
+    {
+      "datatype": "location",
+      "name": "col21",
+      "validateData": false,
+      "title": "LAT",
+      "latitudeLongitudeColumns": {
+        "latitudeColumn": "col21",
+        "longitudeColumn": "col20"
+      }
+    },
+    {
+      "datatype": "double",
+      "name": "col22",
+      "validateData": false,
+      "title": "ACC TIME"
+    },
+    {
+      "datatype": "date",
+      "name": "col23",
+      "validateData": false,
+      "title": "ACC TIME2"
+    },
+    {
+      "datatype": "string",
+      "name": "col24",
+      "validateData": false,
+      "title": "TRAFFIC CONTROL"
+    },
+    {
+      "datatype": "string",
+      "name": "col25",
+      "validateData": false,
+      "title": "TRAFFIC CONTROL2"
+    },
+    {
+      "datatype": "string",
+      "name": "col26",
+      "validateData": false,
+      "title": "ROAD SURFACE"
+    },
+    {
+      "datatype": "string",
+      "name": "col27",
+      "validateData": false,
+      "title": "ROAD SURFACE2"
+    },
+    {
+      "datatype": "date",
+      "name": "col28",
+      "validateData": false,
+      "title": "DATE"
+    },
+    {
+      "datatype": "date",
+      "name": "col29",
+      "validateData": false,
+      "title": "DATE2"
+    },
+    {
+      "datatype": "string",
+      "name": "col30",
+      "validateData": false,
+      "title": "DRIVER ACTION"
+    },
+    {
+      "datatype": "string",
+      "name": "col31",
+      "validateData": false,
+      "title": "DRIVER ACTION2"
+    },
+    {
+      "datatype": "string",
+      "name": "col32",
+      "validateData": false,
+      "title": "DRIVER CONDITION"
+    },
+    {
+      "datatype": "string",
+      "name": "col33",
+      "validateData": false,
+      "title": "DRIVER CONDITION2"
+    },
+    {
+      "datatype": "double",
+      "name": "col34",
+      "validateData": false,
+      "title": "YEAR"
+    }
+  ]}
+}
